@@ -68,9 +68,15 @@ Analyzes how stakeholders interact with, impact, and are impacted by, processes
 ## Rule Models
 Focused on ensuring business policies are adhered to by defining and limiting acceptable actions        
 Rules may be internal, contractual, Rule Models regulatory, legal, etc.
-* Business rules catalogs
-* Decision trees
-* Decision tables
+
+### *Business rules catalogs*
+(Depict limitations on conduct of work; May be imposed on project, project’s result, or a combination; Rules may be internal, contractual, regulatory, or legal in nature; Source and context of rules key to understanding and adherence)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-rule-models-business-rules-catalogs.png)
+
+### *Decision trees & tables*
+(Visualize the results of a series of decisions; Helpful tool to model many possibilities, especially where each decision has an impact on those subsequent to it)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-rule-models-decision-tree.png)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-rule-models-decision-table.png)
 
 ## Data Models
 Determines how, when, and where data is obtained        
