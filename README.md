@@ -8,7 +8,7 @@ Primarily focused on higher-level generation and understanding of requirements
 Problems and objectives tied together to represent creation of value        
 Value may be represented by increased revenues, decreased costs, higher quality, greater risk resilience, etc.      
 Indicates why objectives are important, helpful in prioritizing selection/resources     
-[!](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-scope-models-goal-and-business%20.png)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-scope-models-goal-and-business%20.png)
 
 * Objective Models
 * Ecosystem Maps
