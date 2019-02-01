@@ -81,11 +81,15 @@ Rules may be internal, contractual, Rule Models regulatory, legal, etc.
 ## Data Models
 Determines how, when, and where data is obtained        
 Outlines how data is used in systems and processes      
-* Entity relationship diagrams
-* Data flow diagrams
-* Data dictionaries
-* State tables
-* State diagrams
+### *Entity relationship diagrams*
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-data-models-entity-relationship.png)
+### *Data flow diagrams*
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-data-models-data-flows.png)
+### *Data dictionaries*
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-data-models-data-dictionaries.png)
+### *State diagrams*
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-data-models-data-state.png)
+### *State tables*
 
 ## Interface Models
 Focused on making specific systems morecomprehensible and relevant      
