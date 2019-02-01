@@ -29,10 +29,41 @@ Indicates why objectives are important, helpful in prioritizing selection/resour
 ### Process Models
 Focused on how processes complete work and meet objectives      
 Analyzes how stakeholders interact with, impact, and are impacted by, processes
-* Process flows
-* Use cases
-* User stories
 
+##### Process flows
+(Illustrates how work is completed; Typically human focused; sometimes referred to as system flows when analyzing processes involving systems; May be used to model current or proposed workflows)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-process-models-process-flows.png)
+
+##### Use cases
+(Description of how goals are achieved through a series of actions and processes; Typically text or table-based in nature; Focus on functional qualities of systems; Hones in on specific scenarios)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-process-models-use-cases-1.png)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-process-models-use-cases-2.png)
+
+##### User stories
+(Narrative statement describing required functions and features of a solution; Written from user’s point of view, describing how they interact with a system, and for what purpose)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-process-models-user-stories.png)
+
+###### Effective User Stories
+####### Independent
+* User stories should typically be independent of others, focusing on its own area with little overlap
+* Stories should typically be focused enough in scope to be addressed in one iteration of an agile project
+####### Negotiable
+* Stories remain subject to change right up until implementation occurs
+* Early drafts of stories can spark stakeholder engagement, lead to better solutions with broader support
+* All elements of stories subject to changes
+####### Valuable
+* Must communicate how function or action solves problems and meets needs
+* Well-crafted stories make a strong connection to value, illustrate value clearly
+####### Estimable
+* Should either include an estimation of resources expended or provide enough specificity to allow estimations to occur
+* Stories may be revised closer to implementation to allow for better estimates
+####### Small
+* Must be large enough to offer value, yet small enough to be implemented within a single iteration of an agile project
+* Stories too small may lead to questions of scope validity
+* Stories too large may be better restructured as epics
+####### Testable
+* Value should be clear and story elements should be verifiable by others
+* Weak verification may indicate weak traceability, raising questions about story’s benefit to meeting needs
 ### Rule Models
 Focused on ensuring business policies are adhered to by defining and limiting acceptable actions        
 Rules may be internal, contractual, Rule Models regulatory, legal, etc.
