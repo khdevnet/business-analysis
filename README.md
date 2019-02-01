@@ -3,26 +3,26 @@
 ## Scope Models
 Used to organize thoughts on feature sets, functional capabilities, and scope of work       
 Primarily focused on higher-level generation and understanding of requirements
-### Goal & Business Objective Models
+### *Goal & Business Objective Models*
 (Goals, Problems, Objectives, Success Metrics, High-Level Features)
 Problems and objectives tied together to represent creation of value        
 Value may be represented by increased revenues, decreased costs, higher quality, greater risk resilience, etc.      
 Indicates why objectives are important, helpful in prioritizing selection/resources     
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-scope-models-goal-and-business.png)
 
-### Ecosystem Maps
+### *Ecosystem Maps*
 (Shows systems and their relationships, May indicate how data moves, Systems in scope and those impacted by or impacting data should be included)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-scope-models-eco-system-maps.png)
 
-### Context Diagrams
+### *Context Diagrams*
 (Shows both system and human interfaces, Indicates scope of project and where new work may be needed to meet objectives, System in development at center shown, as a circle; systems and people as boxes; lines indicate data movement)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-scope-models-context-diagrams.png)
 
-### Feature Models
+### *Feature Models*
 (Hierarchical representation of all features, Features may encompass several related requirements, Up to three levels typically used in model, Color differences may be used to represent current status of features)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-scope-models-feature-models.png)
 
-### Use Case Diagrams
+### *Use Case Diagrams*
 (Represents ways users interact with the system, and for what purposes; Typically, use cases in circles connect to figures representing types of users; Multiple users may be tied to multiple use cases)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-scope-models-use-cases.png)
 
@@ -30,16 +30,16 @@ Indicates why objectives are important, helpful in prioritizing selection/resour
 Focused on how processes complete work and meet objectives      
 Analyzes how stakeholders interact with, impact, and are impacted by, processes
 
-### Process flows
+### *Process flows*
 (Illustrates how work is completed; Typically human focused; sometimes referred to as system flows when analyzing processes involving systems; May be used to model current or proposed workflows)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-process-models-process-flows.png)
 
-### Use cases
+### *Use cases*
 (Description of how goals are achieved through a series of actions and processes; Typically text or table-based in nature; Focus on functional qualities of systems; Hones in on specific scenarios)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-process-models-use-cases-1.png)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-process-models-use-cases-2.png)
 
-### User stories
+### *User stories*
 (Narrative statement describing required functions and features of a solution; Written from user’s point of view, describing how they interact with a system, and for what purpose)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-process-models-user-stories.png)
 
