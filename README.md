@@ -1,4 +1,9 @@
 # Business analysis
+## The Language of Modeling
+* Shorthand, symbols, standardized notation methods all common in modeling        
+* Specific languages used vary by organization and project        
+* Consistency is key, regardless of language 
+* Develop definitions and use shapes and colors in commonly understood ways
 
 ## Scope Models
 Used to organize thoughts on feature sets, functional capabilities, and scope of work       
@@ -109,8 +114,3 @@ what information should be included; Very helpful to include a template or examp
 (Often accompanies user interface flows; Outlines all user-facing elements; Includes descriptive table for each user-facing object and function; Business analyst or specialist may be responsible for reviewing wireframes; Critical for wireframes to meet requirements while following best practices for design and usability)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-interface-models-wireframes.png)
 
-# The Language of Modeling
-* Shorthand, symbols, standardized notation methods all common in modeling        
-* Specific languages used vary by organization and project        
-* Consistency is key, regardless of language 
-* Develop definitions and use shapes and colors in commonly understood ways
