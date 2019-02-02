@@ -90,15 +90,24 @@ Outlines how data is used in systems and processes
 ### *State diagrams*
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-data-models-data-state.png)
 ### *State tables*
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-data-models-state-table.png)
 
 ## Interface Models
 Focused on making specific systems morecomprehensible and relevant      
 Addresses how systems are integrated and how they contribute to objectives
-* Report tables
-* System interface tables
-* User interface flows
-* Wireframes
-* Display-action-response models
+### Report tables
+(Catalog of detailed requirements for a particular report; Useful when determining what type of reports can meet business needs, and
+what information should be included; Very helpful to include a template or example of the report with the table;Includes all details regarding requirements for how systems are integrated)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-interface-models-report-table.png)
+### System interface tables
+(Outlines all requirements for specific system interfaces; Both source and target requirements usually included; Includes names, descriptions, and other useful attributes for each object)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-interface-models-sytem-interface-table.png)
+### User interface flows
+(Simulates or visualizes how users interact with a system; Models range from simple flowcharts to full-blown simulations; May focus on specific functionality or represent an entire system/application)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-interface-models-user-interface-flows.png)
+### Wireframes + Display-action-response models
+(Often accompanies user interface flows; Outlines all user-facing elements; Includes descriptive table for each user-facing object and function; Business analyst or specialist may be responsible for reviewing wireframes; Critical for wireframes to meet requirements while following best practices for design and usability)
+![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-interface-models-wireframes.png)
 
 # The Language of Modeling
 * Shorthand, symbols, standardized notation methods all common in modeling        
