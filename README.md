@@ -27,6 +27,8 @@ Indicates why objectives are important, helpful in prioritizing selection/resour
 (Hierarchical representation of all features, Features may encompass several related requirements, Up to three levels typically used in model, Color differences may be used to represent current status of features)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-scope-models-feature-models.png)
 
+Whereas the feature is a collection of completed user stories or a collection of completed small tasks that form one of the delivery goals of the customer requirements. The difference is that features are completed as partial goals of the project. They form part of the product that must be delivered to the customer. Features are generally smaller than epic and larger than the user stories.
+
 ### *Use Case Diagrams*
 (Represents ways users interact with the system, and for what purposes; Typically, use cases in circles connect to figures representing types of users; Multiple users may be tied to multiple use cases)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-scope-models-use-cases.png)
