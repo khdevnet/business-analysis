@@ -116,3 +116,10 @@ what information should be included; Very helpful to include a template or examp
 (Often accompanies user interface flows; Outlines all user-facing elements; Includes descriptive table for each user-facing object and function; Business analyst or specialist may be responsible for reviewing wireframes; Critical for wireframes to meet requirements while following best practices for design and usability)
 ![](https://github.com/khdevnet/business-analysis/blob/master/src/business-analysis-interface-models-wireframes.png)
 
+# Project Documentation
+![ProjectDocumentation](https://github.com/khdevnet/business-analysis/assets/14298158/88aab2b8-09c7-4dbe-988a-fbc7dc3321aa)
+![ProjectDocumentation-v2](https://github.com/khdevnet/business-analysis/assets/14298158/5645baeb-de2e-412b-9651-b27ba2c358c2)
+
+## Resources
+[technical-documentation-in-software-development-types-best-practices-and-tools](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools)
+
